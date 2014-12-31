@@ -3,3 +3,10 @@ Q: What happens when you initialize a repository? Why do you need to do it?
 A: It tells version control that there is a new repository and it has to initialize
 all the stuff that it needs. You need to do it because that is how you tell Git program
 that you want to make a new repository.
+
+Q: how is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+A: In staging area are files that will be commited but in working repository are
+all the files. And some of them will not be commited. 
+You can just pick which files will be commited and which will not be commited.
